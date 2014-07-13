@@ -1,10 +1,9 @@
-# --------------------
-# | [The Odin Project](http://www.theodinproject.com/home) |
-# --------------------
+
+#[The Odin Project](http://www.theodinproject.com/home) 
 
 ## Ruby Programming >> Intermediate Ruby >> Project: OOP
 
-### [Project 2: Mastermind](http://www.theodinproject.com/ruby-programming/oop)
+###[Project 2: Mastermind](http://www.theodinproject.com/ruby-programming/oop)
 
 Task:
 
@@ -16,9 +15,7 @@ Build a Mastermind game from the command line where you have 12 turns to guess t
 4. Build it out so that the computer will guess if you decide to choose your own secret colors. Start by having the computer guess randomly (but keeping the ones that match exactly).
 5. Next, add a little more intelligence to the computer player so that, if the computer has guessed the right color but the wrong position, its next guess will need to include the color somewhere. Feel free to make the AI even smarter.
 
-##---------------------------
-##| [Wikipedia -> Mastermind](http://en.wikipedia.org/wiki/Mastermind_%28board_game%29) |
-##---------------------------
+##[Wikipedia -> Mastermind](http://en.wikipedia.org/wiki/Mastermind_%28board_game%29)
 
 >The game is played using:
 >
